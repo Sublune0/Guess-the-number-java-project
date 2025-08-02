@@ -21,7 +21,7 @@ This program is a menu-driven number guessing game with two interactive modes:
 ---
 
 Purpose
-This assignment was created for Project 2A to practice:
+This assignment was created for ICT 152 Project 2A to practice:
 - Conditionals (`if` / `else`)
 - Loops (`while`)
 - User input handling
